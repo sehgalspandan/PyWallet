@@ -43,7 +43,7 @@ Make sure you have Python installed on your system.
 
 - **`main.py`**: The main Python script containing the Expense class and the logic for user interaction.
 - **`greetings.json`**: A JSON file containing a list of greetings used randomly.
-- **`expenses.db`**: SQLite database file storing the expenses. (Note: This file is created automatically when the script is run for the first time. It is not included in the repository.)
+- **`expenses.db`**: SQLite database file storing the expenses. **_(Note: This file is created automatically when the script is run for the first time. It is not included in the repository.)_**
 
 ## Acknowledgments
 
