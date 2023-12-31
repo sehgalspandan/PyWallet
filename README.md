@@ -19,19 +19,19 @@ Make sure you have Python installed on your system.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
+   git clone https://github.com/sehgalspandan/PyWallet.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd expense-tracker
+   cd PyWallet
    ```
 
 3. Run the script:
 
    ```bash
-   python expense_tracker.py
+   python main.py
    ```
 
 ## Usage
@@ -41,7 +41,7 @@ Make sure you have Python installed on your system.
 
 ## Files
 
-- **`expense_tracker.py`**: The main Python script containing the Expense class and the logic for user interaction.
+- **`main.py`**: The main Python script containing the Expense class and the logic for user interaction.
 - **`greetings.json`**: A JSON file containing a list of greetings used randomly.
 - **`expenses.db`**: SQLite database file storing the expenses.
 
